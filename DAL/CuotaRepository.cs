@@ -17,6 +17,7 @@ namespace DAL
         {
             Connection = connection;
         }
+        yes
 
         public void CrearCuota(Cuota cuota)
         {
