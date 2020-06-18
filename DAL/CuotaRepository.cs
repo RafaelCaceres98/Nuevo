@@ -18,6 +18,7 @@ namespace DAL
             Connection = connection;
         }
         yes
+            SI
 
         public void CrearCuota(Cuota cuota)
         {
